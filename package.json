@@ -1,0 +1,30 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "echo \"No linter configured\"",
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naserjr23/naser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naserjr23/naser/issues"
+  },
+  "homepage": "https://github.com/naserjr23/naser#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "nuxt": "^4.4.2"
+  }
+}
