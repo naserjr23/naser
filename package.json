@@ -1,0 +1,36 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naserjr23/naser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naserjr23/naser/issues"
+  },
+  "homepage": "https://github.com/naserjr23/naser#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0",
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.5.1",
+    "@types/react": "^19.3.0",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^16.3.5",
+    "typescript": "^6.0.3"
+  }
+}
